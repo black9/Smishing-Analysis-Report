@@ -42,15 +42,20 @@
 [표2] 테스트 환경 구성  
 
 ### 2.1 안드로이드 분석
-  
+
+
+[안드로이드 분석](https://github.com/black9/Smishing-Analysis-Report/blob/master/Android_analysis.md)  
   
   
 ### 2.2 IOS (Web) 분석
   
 
+[IOS (Web) 분석](https://github.com/black9/Smishing-Analysis-Report/blob/master/Ios_analysis.md)  
 
-### 2.3 공굑자 IP 분석  
+### 2.3 공격자 IP 분석  
   
+  
+[공격자 IP 분석](https://github.com/black9/Smishing-Analysis-Report/blob/master/IP_find.md)  
   
 
 ## 3. 대응방안
