@@ -35,7 +35,7 @@
   
 |역할구분|OS|Version|비고|
 |---|---|---|---|
-|분석|Windows|10|
+|분석|Windows|10|NoxPlayer 사용|
 |테스트1|Android|5.1.1|ROOT 권한|
 |테스트2|Safari|None|Mobile-Iphone|
   
@@ -44,18 +44,18 @@
 ### 2.1 안드로이드 분석
 
 
-[안드로이드 분석](https://github.com/black9/Smishing-Analysis-Report/blob/master/Android_analysis.md)  
+[안드로이드 분석 바로가기](https://github.com/black9/Smishing-Analysis-Report/blob/master/Android_analysis.md)  
   
   
 ### 2.2 IOS (Web) 분석
   
 
-[IOS (Web) 분석](https://github.com/black9/Smishing-Analysis-Report/blob/master/Ios_analysis.md)  
+[IOS (Web) 분석 바로가기](https://github.com/black9/Smishing-Analysis-Report/blob/master/Ios_analysis.md)  
 
 ### 2.3 공격자 IP 분석  
   
   
-[공격자 IP 분석](https://github.com/black9/Smishing-Analysis-Report/blob/master/IP_find.md)  
+[공격자 IP 분석 바로가기](https://github.com/black9/Smishing-Analysis-Report/blob/master/IP_find.md)  
   
 
 ## 3. 대응방안

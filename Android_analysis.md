@@ -1,6 +1,17 @@
 ## Android 스미싱 분석  
   
+Tool Download :
 
+[Strings64 Tools Download](https://docs.microsoft.com/ko-kr/sysinternals/downloads/strings)   
+  
+  
+[APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio/releases)  
+  
+  
+[Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=ko&gl=US)  
+  
+  
+[LogCat](https://apkpure.com/kr/logcat-extreme/scd.lcex)
   
 <img src="./image/APK_install.png">  
    
@@ -101,8 +112,3 @@
 해당 내용을 분석 해본 결과 **위치, html view , 문서 기록, SMS 기록, 브라우저 기록** 등을 **공격자 (IP : 103.9.76.78, 103.9.76.95)**에게 전송하는 것을 확인할 수 있었다  
 
 
-Tool Download :
-
-[Strings64 Tools Download](https://docs.microsoft.com/ko-kr/sysinternals/downloads/strings)  
-
-[APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio/releases)
